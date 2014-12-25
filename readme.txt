@@ -19,12 +19,12 @@ Ru: Этот плагин для автоматического входа но�
 == Installation ==
 
 En:<br>
-1. Upload the plugin to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-<br><br>
-Ru:<br> 
-1. Загрузите плагин в папку `/wp-content/plugins/` 
-2. Активируйте а разделе 'Plugins' в меню Wordpress 
+1. Upload the plugin to the `/wp-content/plugins/` directory<br>
+2. Activate the plugin through the 'Plugins' menu in WordPress<br>
+<br>
+Ru:<br>
+1. Загрузите плагин в папку `/wp-content/plugins/`<br>
+2. Активируйте а разделе 'Plugins' в меню Wordpress<br>
 
 == Changelog ==
 
