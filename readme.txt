@@ -13,7 +13,6 @@ Email: penzin85@gmail.com
 
 == Description ==
 En: This plugin will automatically login your new user after the registration process.
-<br>
 Ru: Этот плагин для автоматического входа нового пользователя после регистрации.
 
 == Installation ==
