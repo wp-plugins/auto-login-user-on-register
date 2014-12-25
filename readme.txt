@@ -13,15 +13,16 @@ Email: penzin85@gmail.com
 
 == Description ==
 En: This plugin will automatically login your new user after the registration process.
+<br><br>
 Ru: Этот плагин для автоматического входа нового пользователя после регистрации.
 
 == Installation ==
 
-En: 
+En:<br>
 1. Upload the plugin to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-
-Ru: 
+<br><br>
+Ru:<br> 
 1. Загрузите плагин в папку `/wp-content/plugins/` 
 2. Активируйте а разделе 'Plugins' в меню Wordpress 
 
