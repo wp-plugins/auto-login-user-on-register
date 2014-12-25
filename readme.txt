@@ -13,19 +13,22 @@ This plugin will automatically login your new user after the registration proces
 
 == Description ==
 
-En:<br>
+En:
+
 This plugin will automatically login your new user after the registration process. General scheme of authorization and registration is not changed.<br>
 I will be glad comments and observations.
 
-<br><br>
 
-Ru:<br>
+
+Ru:
+
 Этот плагин для автоматического входа нового пользователя после регистрации. Общая схема авторизации и регистрации не изменена.<br>
 Буду рад комментариям и замечаниям.
 
-<br><br>
 
-Author: Penzin Konstantin<br>
+
+Author: Penzin Konstantin
+
 Site: <a href="http://pkweb.ru/">PKweb.ru</a><br>
 
 == Installation ==
