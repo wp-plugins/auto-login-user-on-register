@@ -3,8 +3,7 @@ Plugin Name: Auto Login User on Register
 Contributors: kostikpenzin
 Tags: user, registration, login, automatically login, autologin, auto login, settings, wp_options, user, login user, registration
 Requires at least: 3.5
-Tested up to: 4.1
-Stable tag: 5
+Tested up to: 4.1   
 Plugin URI: http://pkweb.ru/
 Donate link: http://pkweb.ru/donate/
 
@@ -13,14 +12,12 @@ This plugin will automatically login your new user after the registration proces
 
 == Description ==
 
-En:
-
+<b>En:</b>
 This plugin will automatically login your new user after the registration process. General scheme of authorization and registration is not changed.<br>
 I will be glad comments and observations.
 
 
-Ru:
-
+<b>Ru:</b>
 Этот плагин для автоматического входа нового пользователя после регистрации. Общая схема авторизации и регистрации не изменена.<br>
 Буду рад комментариям и замечаниям.
 
