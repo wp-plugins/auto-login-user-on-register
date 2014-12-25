@@ -19,12 +19,10 @@ This plugin will automatically login your new user after the registration proces
 I will be glad comments and observations.
 
 
-
 Ru:
 
 Этот плагин для автоматического входа нового пользователя после регистрации. Общая схема авторизации и регистрации не изменена.<br>
 Буду рад комментариям и замечаниям.
-
 
 
 Author: Penzin Konstantin
