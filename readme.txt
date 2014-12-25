@@ -7,9 +7,9 @@ Tested up to: 4.1
 Stable tag: 5
 Plugin URI: http://pkweb.ru/
 Donate link: http://pkweb.ru/donate/
-Version: 1.0.0
-Author: Penzin Konstantin
-Email: penzin85@gmail.com
+
+Author: Penzin Konstantin<br>
+Site: <a href="http://pkweb.ru/">PKweb.ru</a><br>
 
 This plugin will automatically login your new user after the registration process
 
