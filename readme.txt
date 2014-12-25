@@ -11,6 +11,8 @@ Version: 1.0.0
 Author: Penzin Konstantin
 Email: penzin85@gmail.com
 
+This plugin will automatically login your new user after the registration process
+
 == Description ==
 En:<br>
 This plugin will automatically login your new user after the registration process. General scheme of authorization and registration is not changed.<br>
