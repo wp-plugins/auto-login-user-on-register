@@ -1,11 +1,14 @@
 <?php
 /*
 Plugin Name: Auto Login User on Register
-Plugin URI: http://pkweb.ru/
 Description: This plugin will automatically login your new user after the registration process.
+Plugin URI: http://pkweb.ru/
 Version: 1.0.0
 Author: Penzin Konstantin
 Email: penzin85@gmail.com
+Author URI: http://pkweb.ru/
+License: GPL2
+Text Domain: auto-login-user-on-register
 */
 
 function _new_user_auto_log_in($user_id){
